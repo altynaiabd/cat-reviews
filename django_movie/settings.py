@@ -42,6 +42,7 @@ INSTALLED_APPS = [
 
     #apps
     'movies',
+    'contact',
 
     'ckeditor',
     'ckeditor_uploader',
